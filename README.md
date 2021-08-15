@@ -20,7 +20,7 @@ DLV is an artificial intelligence system based on disjunctive logic programming.
 
 ### Authors
 
-* Andreas Brännström {andreasb@cs.umu.se}
+* Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
 
 Department of Computing Science  
 Umeå university  
