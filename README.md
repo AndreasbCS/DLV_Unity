@@ -18,6 +18,21 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 
 DLV is an artificial intelligence system based on disjunctive logic programming.
 
+### Cite as
+```
+Brännström, A. (2021). DLV Unity Package (Version 1.0) [Computer software]. https://git.io/JDJAi
+```
+```
+@software{Brannstrom_DLV_Unity_Package_2021,
+author = {Brännström, Andreas},
+month = {2},
+title = {{DLV Unity Package}},
+url = {https://git.io/JDJAi},
+version = {1.0},
+year = {2021}
+}
+```
+
 ### Authors
 
 * Andreas Brännström {andreasb@cs.umu.se} [Homepage](https://people.cs.umu.se/andreasb/)
