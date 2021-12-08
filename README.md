@@ -8,7 +8,7 @@ Unity Game Engine: https://unity3d.com/get-unity/download
 
 * Install Unity
 * Create a new Unity 3D project
-* Import DLV_Unity_Package.unitypackage
+* Import [DLV_Unity_Package.unitypackage](https://github.com/AndreasbCS/DLV_Unity/blob/cda8e13b5b9359de81d8060484690215dc628f37/DLV_Unity_Package.unitypackage)
 
 ### Useful links
 
